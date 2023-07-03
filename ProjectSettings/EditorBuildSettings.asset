@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 94ec6a0405cdcb44891e0c76e5b7fb9d
+  - enabled: 1
+    path: Assets/Scenes/LevelsMenu.unity
+    guid: 152783f8020fb5243a6e1ce6f522d8d4
+  - enabled: 1
+    path: Assets/Scenes/TEST1.unity
+    guid: 1ef62ad2f598b5d4c8b7ccb2d4e73a65
+  - enabled: 1
+    path: Assets/Scenes/TEST2.unity
+    guid: 2b7f6870ec72f1f48bbcfab45d927057
+  - enabled: 1
+    path: Assets/Scenes/TEST3.unity
+    guid: c13a8871909264c47b1b43b2e6409426
+  - enabled: 1
+    path: Assets/Scenes/TEST4.unity
+    guid: 661b57c503db1654eb496cc81015f4a0
+  - enabled: 1
+    path: Assets/Scenes/TEST5.unity
+    guid: 3c07cb10f8ab28740ab85916bf15e215
+  - enabled: 1
+    path: Assets/Scenes/TEST6.unity
+    guid: a2bd7ca6db69f46408f0fdbd612447aa
+  - enabled: 1
+    path: Assets/Scenes/TEST7.unity
+    guid: d890958740e66c24ab9fc8fa381ed181
+  - enabled: 1
+    path: Assets/Scenes/TEST8.unity
+    guid: 8c0be755eaa55f64d9361ab0d4e4a9e9
+  - enabled: 1
+    path: Assets/Scenes/TEST9.unity
+    guid: de9d5232ad09f37419a0161373d1c94d
+  - enabled: 1
+    path: Assets/Scenes/TEST10.unity
+    guid: 10e5cc58335e97841b3f09c6f0477951
+  - enabled: 1
+    path: Assets/Scenes/TEST11.unity
+    guid: 633146c07ceb6e1459dad0a4c9dde1fa
+  - enabled: 1
+    path: Assets/Scenes/TEST12.unity
+    guid: 2074a5419b22c2f49b05fe44d2c3a9d7
+  - enabled: 1
+    path: Assets/Scenes/TEST13.unity
+    guid: 79dd96ea5fbb0e34dafffe7e6eb43cfe
+  - enabled: 1
+    path: Assets/Scenes/TEST14.unity
+    guid: ca50817c0f72f8a4f84d2176e84f7d1f
+  - enabled: 1
+    path: Assets/Scenes/TEST15.unity
+    guid: 9e40069ae18cba94988df0e08bd07f1f
+  - enabled: 1
+    path: Assets/Scenes/TEST16.unity
+    guid: 480528b74d7429941a1c1424487366e4
+  - enabled: 1
+    path: Assets/Scenes/TEST17.unity
+    guid: 6a614b80117611b438af6d99e747528b
+  - enabled: 1
+    path: Assets/Scenes/TEST18.unity
+    guid: 6ab1cea8e56c8a243bdb62dc88baf9d1
+  m_configObjects: {}
